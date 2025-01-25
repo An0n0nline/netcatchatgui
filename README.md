@@ -1,5 +1,5 @@
 # Chat.py
-A simple Python-based chatbot that allows for interactive conversations with predefined responses. Built to demonstrate basic chat functionality and conversational flow using Python.
+A simple Python-based chat interface that allows for interactive conversations with predefined responses. Built to demonstrate basic chat functionality and conversational flow using Python.
 
 ## Features
 - Interactive chat with predefined responses.
