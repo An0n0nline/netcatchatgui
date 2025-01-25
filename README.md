@@ -18,11 +18,15 @@ cd chat.py
 
 ## Usage
 Option 1: Run via CLI
+
 Open a terminal and run the following command:
+
 python3 chat.py
 
 Option 2: Run via GUI
+
 Save the text as chat.py.
+
 Double-click on the chat.py file to execute it.
 
 ## Operation
