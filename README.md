@@ -31,12 +31,12 @@ Double-click on the chat.py file to execute it.
 
 ## Operation
 1. Start the script on both machines (using either the CLI or GUI).
-2. On the first machine, input the second machine's IP address and port.
-3. On the second machine, input the same port.
-4. On the first machine, click Listen for Incoming Chat.
-5. On the second machine, click Connect to Chat Server.
+2. On the first machine input the second machine's IP address and port.
+3. On the second machine input the same port.
+4. On the first machine click Listen for Incoming Chat.
+5. On the second machine click Connect to Chat Server.
 6. Wait for the connection dialogs to appear and click OK to establish the connection.
-7. Once connected, type your message in the message box and click Send.
+7. Once connected type your message in the message box and click Send.
 8. The recipient will see the message in the larger dialog box above.
 
 License
