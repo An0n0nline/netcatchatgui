@@ -9,9 +9,11 @@ Python 3.x
 
 ## Installation
 1. Clone the repository:
+   
 git clone https://github.com/yourusername/chat.py.git
 
-2. Navigate into the project directory:
+3. Navigate into the project directory:
+   
 cd chat.py
 
 ## Usage
