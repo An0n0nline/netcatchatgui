@@ -1,10 +1,8 @@
 # Chat.py
-A simple Python-based chat interface that allows for interactive conversations with predefined responses. Built to demonstrate basic chat functionality and conversational flow using Python.
+A simple Python-based chat interface for netcat chat.
 
 ## Features
-- Interactive chat with predefined responses.
-- Easy to extend by adding more responses or features.
-- Simple to run and use, no complex setup required.
+- Simple to run and use, little knowledge required.
 
 ## Requirements
 Python 3.x
