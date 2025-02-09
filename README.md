@@ -7,6 +7,7 @@ A simple Python-based chat interface for netcat chat.
 ## Requirements
 Python 3.x
 Modules: tkinter, threading, socket (all standard)
+If tkinter is giving you an issue try installing "python3-tk" from your repo.
 
 ## Installation
 1. Clone the repository:
