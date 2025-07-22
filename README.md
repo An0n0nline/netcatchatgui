@@ -9,15 +9,6 @@ Python 3.x
 Modules: tkinter, threading, socket (all standard)
 If tkinter is giving you an issue try installing "python3-tk" from your repo.
 
-## Installation
-1. Clone the repository:
-   
-git clone https://github.com/yourusername/chat.py.git
-
-3. Navigate into the project directory:
-   
-cd chat.py
-
 ## Usage
 Option 1: Run via CLI
 
